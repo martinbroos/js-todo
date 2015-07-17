@@ -1,0 +1,7 @@
+{
+  "name": "fh-project",
+  "private": true,
+  "dependencies": {
+    "handlebars": "~3.0.3"
+  }
+}
